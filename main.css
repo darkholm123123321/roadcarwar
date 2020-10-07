@@ -1,0 +1,56 @@
+#cars{
+      /*position: fixed; */                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+	        top : 10px;
+            left : 10px;
+}
+body{/* Путь к фоновому изображению */
+    background-color: #00FF00; /* Цвет фона */}
+.map{
+	      position: absolute;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+	        top: 50px;
+            left: 500px;
+}
+
+
+
+
+.l1{
+	      position: absolute;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+	        top: 159px;
+            left: 655px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+
+}
+
+.l2{
+	      position: absolute;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+	        top: 205px;
+            left: 825px;
+}
+
+.l3{
+	      position: absolute;
+            top: 376px;
+            left: 780px;
+}
+
+.l4{
+	      position: absolute;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+	        top: 330px;
+            left: 609px;
+}
+.t1
+{
+	      position: absolute;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+	        top: 166px;
+            left:614px;
+            opacity: .5;
+}
+
+
+.t2
+{
+	      position: absolute;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+	        top: 163px;
+            left:611px;
+            opacity: .5;
+}
